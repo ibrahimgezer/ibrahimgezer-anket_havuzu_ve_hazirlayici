@@ -48,7 +48,7 @@
     <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Post a job position or create your online resume by TheJobs!">
+  <meta name="description" content="Anket Havuzu ve Hazırlayıcı">
   <meta name="keywords" content="">
   <title> Anket Oluştur</title>
   <link href="assets/css/app.min.css" rel="stylesheet">
